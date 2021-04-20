@@ -5,7 +5,7 @@ on:
       - gh-pages # main 分支有 push 行为时就触发这个 action
 
 jobs:
-  build-and-deploy:
+  web-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
