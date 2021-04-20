@@ -1,0 +1,21 @@
+name: deploying Hexo project to aliyun ftp
+on:
+  push:
+    branches:
+      - gh-pages # main 分支有 push 行为时就触发这个 action
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: Build and Deploy
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0 # 使用专门部署 Hexo 到 FTP 的 action
+		    with:
+			    server: ${{ secrets.FTP_SERVER }}
+			    username: ${{ secrets.FTP_USERNAME }}
+			    password: ${{ secrets.FTP_PASSWORD }}
+			    local-dir: /
+			    server-dir: ./htdocs/
