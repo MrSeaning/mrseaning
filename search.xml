@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>4月杂谈</title>
+    <url>/91.html</url>
+    <content><![CDATA[<blockquote>
+<p>随心所写，杂乱无章</p>
+</blockquote>
+<h2 id="无聊"><a href="#无聊" class="headerlink" title="无聊"></a>无聊</h2><p>四月马上就要过去了，回想一下，感觉自己除了基本工作之外好像并没有做什么有意义的事情，业绩也没有什么增长，被领导约谈了一下，重新思考了自己的职业规划，但好像并没有什么卵用，人总是不自知，哎！</p>
+<h2 id="故事"><a href="#故事" class="headerlink" title="故事"></a>故事</h2><h4 id="故事一：为什么现在年轻人的猝死率这么高？"><a href="#故事一：为什么现在年轻人的猝死率这么高？" class="headerlink" title="故事一：为什么现在年轻人的猝死率这么高？"></a>故事一：为什么现在年轻人的猝死率这么高？</h4><p>​        我二十几岁因为腰间盘突出进医院的时候，当时那个骨科医生跟我说了一段话，我印象特别深刻，他当时问了下我的情况，从小学一直问到后来工作。</p>
+<p>​        然后他突然问我：“你觉得一辆自行车想要跑过一辆宝马，需要什么条件？”</p>
+<p>​        我当时特别懵逼，支支吾吾的说：”好像怎么都跑不过吧。“</p>
+<p>​        医生说:”对呀，怎么都跑不过，那你干啥呢？一个人从小的家境，一路的环境相差是很大的，有的人出生坐的就是宝马，有的人努力半辈子才能买辆自行车，自己比自己快就行了，你还指望自己两个轮子的能跑过别人四个轮子的？想要好的生活没错，但起码你得保证自己先活着，你现在年纪轻轻的就腰间盘突出，以后怎么弄？”</p>
+<p>​        后来的好多年，我一直记得这个医生说的话，个人感觉那些猝死的年轻人就是这样的，渴望自己的自行车能跑过别人的奔驰宝马，怎么可能嘛！因为知道本身不可能，于是只能增加时间这个因素，就好像在一片天地上榨不出更多的粮食，只能扩大面积或者增加亩产，而这些年轻人就通过增加工作时间，来换取一点比别人优秀的机会，时间一长自然会出问题，别说自行车了，就算是一辆不错的跑车，超过了自身的极限，也肯定会熄火。</p>
+<p>​    <strong>所以啊，相比较好的生活来说，活着是先觉条件</strong></p>
+<h4 id="故事二：少跟孩子生气"><a href="#故事二：少跟孩子生气" class="headerlink" title="故事二：少跟孩子生气"></a>故事二：少跟孩子生气</h4><p>​        我们心情不好的时候会对孩子发脾气，甚至大打出手，但是孩子的心情不好的时候，我们阻止他发脾气，甚至批评指责他，他不但不记仇，还会想方设法的讨好我们，让我们开心</p>
+<p>​        孩子听话的时候你爱他入骨，孩子调皮的时候你又拼命吼他。你崩溃后自愈，自愈后又后悔，却忘了他还只是个孩子</p>
+<p>​        好好善待自己的孩子吧，他也就是快乐那几年，长大了，也会疼、会苦，像现在的我们</p>
+]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CorePress主题</title>
+    <url>/1.html</url>
+    <content><![CDATA[<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://www.lovestu.com/wp-content/uploads/2021/03/corepress4js01.webp"
+                     
+                > </p>
+<blockquote>
+<p>WordPress高颜值，高性能免费主题，极致优化，专为极客！</p>
+</blockquote>
+<h2 id="主题地址"><a href="#主题地址" class="headerlink" title="主题地址"></a>主题地址</h2><p><a class="link"   href="https://www.lovestu.com/corepress.html" >https://www.lovestu.com/corepress.html<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+      <categories>
+        <category>折腾杂谈</category>
+      </categories>
+      <tags>
+        <tag>wp主题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Unicode 和 UTF-8 有何区别</title>
+    <url>/92.html</url>
+    <content><![CDATA[<blockquote>
+<p>本文转自：<a class="link"   href="https://lxh2006.tk/article/unicode-he-utf-8-you-he-qu-bie.html" >https://lxh2006.tk/article/unicode-he-utf-8-you-he-qu-bie.html<i class="fas fa-external-link-alt"></i></a></p>
+</blockquote>
+<p>很久很久以前，有一群人，他们决定用8个可以开合的晶体管来组合成不同的状态，以表示世界上的万物。他们看到8个开关状态是好的，于是他们把这称为”字节“。再后来，他们又做了一些可以处理这些字节的机器，机器开动了，可以用字节来组合出很多状态，状态开始变来变去。他们看到这样是好的，于是它们就这机器称为”计算机“。</p>
+<p>开始计算机只在美国用。八位的字节一共可以组合出256(2的8次方)种不同的状态。<br>他们把其中的编号从0开始的32种状态分别规定了特殊的用途，一但终端、打印机遇上约定好的这些字节被传过来时，就要做一些约定的动作：</p>
+<p>遇上0x10, 终端就换行；</p>
+<p>遇上0x07, 终端就向人们嘟嘟叫；</p>
+<p>遇上0x1b, 打印机就打印反白的字，或者终端就用彩色显示字母。</p>
+<p>他们看到这样很好，于是就把这些0x20以下的字节状态称为”控制码”。他们又把所有的空<br>格、标点符号、数字、大小写字母分别用连续的字节状态表示，一直编到了第127号，这样计算机就可以用不同字节来存储英语的文字了。大家看到这样，都感觉很好，于是大家都把这个方案叫做 ANSI 的”Ascii”编码（American Standard Code for Information Interchange，美国信息互换标准代码）。当时世界上所有的计算机都用同样的ASCII方案来保存英文文字。</p>
+<p>后来，就像建造巴比伦塔一样，世界各地都开始使用计算机，但是很多国家用的不是英文，他们的字母里有许多是ASCII里没有的，为了可以在计算机保存他们的文字，他们决定采用127号之后的空位来表示这些新的字母、符号，还加入了很多画表格时需要用下到的横线、竖线、交叉等形状，一直把序号编到了最后一个状态255。从128 到255这一页的字符集被称”扩展字符集“。从此之后，贪婪的人类再没有新的状态可以用了，美帝国主义可能没有想到还有第三世界国家的人们也希望可以用到计算机吧！</p>
+<p>等中国人们得到计算机时，已经没有可以利用的字节状态来表示汉字，况且有6000多个常用汉字需要保存呢。但是这难不倒智慧的中国人民，我们不客气地把那些127号之后的奇异符号们直接取消掉, 规定：一个小于127的字符的意义与原来相同，但两个大于127的字符连在一起时，就表示一个汉字，前面的一个字节（他称之为高字节）从0xA1用到0xF7，后面一个字节（低字节）从0xA1到0xFE，这样我们就可以组合出大约7000多个简体汉字了。在这些编码里，我们还把数学符号、罗马希腊的字母、日文的假名们都编进去了，连在 ASCII 里本来就有的数字、标点、字母都统统重新编了两个字节长的编码，这就是常说的”全角”字符，而原来在127号以下的那些就叫”半角”字符了。中国人民看到这样很不错，于是就把这种汉字方案叫做 “GB2312“。GB2312 是对 ASCII 的中文扩展。</p>
+<p>但是中国的汉字太多了，我们很快就就发现有许多人的人名没有办法在这里打出来，特别是某些很会麻烦别人的国家领导人。于是我们不得不继续把GB2312 没有用到的码位找出来老实不客气地用上。后来还是不够用，于是干脆不再要求低字节一定是127号之后的内码，只要第一个字节是大于127就固定表示这是一个汉字的开始，不管后面跟的是不是扩展字符集里的内容。结果扩展之后的编码方案被称为 GBK 标准，GBK包括了GB2312 的所有内容，同时又增加了近20000个新的汉字（包括繁体字）和符号。 后来少数民族也要用电脑了，于是我们再扩展，又加了几千个新的少数民族的字，GBK扩成了 GB18030。从此之后，中华民族的文化就可以在计算机时代中传承了。 中国的程序员们看到这一系列汉字编码的标准是好的，于是通称他们叫做 “DBCS“（Double Byte Charecter Set 双字节字符集）。在DBCS系列标准里，最大的特点是两字节长的汉字字符和一字节长的英文字符并存于同一套编码方案里，因此他们写的程序为了支持中文处理，必须要注意字串里的每一个字节的值，如果这个值是大于127的，那么就认为一个双字节字符集里的字符出现了。那时候凡是受过加持，会编程的计算机僧侣们都要每天念下面这个咒语数百遍： “一个汉字算两个英文字符！一个汉字算两个英文字符……”</p>
+<p>因为当时各个国家都像中国这样搞出一套自己的编码标准，结果互相之间谁也不懂谁的编码，谁也不支持别人的编码，连大陆和台湾这样只相隔了150海里，使用着同一种语言的兄弟地区，也分别采用了不同的 DBCS 编码方案——当时的中国人想让电脑显示汉字，就必须装上一个”汉字系统”，专门用来处理汉字的显示、输入的问题，像是那个台湾的愚昧封建人士写的算命程序就必须加装另一套支持 BIG5 编码的什么”倚天汉字系统”才可以用，装错了字符系统，显示就会乱了套！这怎么办？而且世界民族之林中还有那些一时用不上电脑的穷苦人民，他们的文字又怎么办？ 真是计算机的巴比伦塔命题啊！</p>
+<p>正在这时，大天使加百列及时出现了——一个叫 ISO（国际标谁化组织）的国际组织决定着手解决这个问题。他们采用的方法很简单：废了所有的地区性编码方案，重新搞一个包括了地球上所有文化、所有字母和符号 的编码！他们打算叫它”Universal Multiple-Octet Coded Character Set”，简称 UCS, 俗称 “unicode“。</p>
+<p>unicode开始制订时，计算机的存储器容量极大地发展了，空间再也不成为问题了。于是 ISO就直接规定必须用两个字节，也就是16位来统一表示所有的字符，对于ASCII里的那些“半角”字符，unicode包持其原编码不变，只是将其长度由原来的8位扩展为16位，而其他文化和语言的字符则全部重新统一编码。由于”半角”英文符号只需要用到低8位，所以其高8位永远是0，因此这种大气的方案在保存英文文本时会多浪费一倍的空间。</p>
+<p>这时候，从旧社会里走过来的程序员开始发现一个奇怪的现象：他们的 strlen 函数靠不住了，一个汉字不再是相当于两个字符了，而是一个！是的，从unicode开始，无论是半角的英文字母，还是全角的汉字，它们都是统一的”一个字符“！同时，也都是统一的”两个字节“，请注意”字符”和”字节”两个术语的不同，“字节”是一个8位的物理存贮单元，而“字符”则是一个文化相关的符号。在unicode中，一个字符就是两个字节。一个汉字算两个英文字符的时代已经快过去了。</p>
+<p>unicode同样也不完美，这里就有两个的问题，一个是，如何才能区别unicode和ascii？计算机怎么知道三个字节表示一个符号，而不是分别表示三个符号呢？第二个问题是，我们已经知道，英文字母只用一个字节表示就够了，如果unicode统一规定，每个符号用三个或四个字节表示，那么每个英文字母前都必然有二到三个字节是0，这对于存储空间来说是极大的浪费，文本文件的大小会因此大出二三倍，这是难以接受的。</p>
+<p>unicode在很长一段时间内无法推广，直到互联网的出现，为解决unicode如何在网络上传输的问题，于是面向传输的众多 UTF（UCS Transfer Format）标准出现了，顾名思义，UTF-8就是每次8个位传输数据，而UTF-16就是每次16个位。UTF-8就是在互联网上使用最广的一种unicode的实现方式，这是为传输而设计的编码，并使编码无国界，这样就可以显示全世界上所有文化的字符了。UTF-8最大的一个特点，就是它是一种变长的编码方式。它可以使用1~4个字节表示一个符号，根据不同的符号而变化字节长度，当字符在ASCII码的范围时，就用一个字节表示，保留了ASCII字符一个字节的编码做为它的一部分，注意的是unicode一个中文字符占2个字节，而UTF-8一个中文字符占3个字节）。从unicode到uft-8并不是直接的对应，而是要过一些算法和规则来转换。</p>
+<p>Unicode符号范围 | UTF-8编码方式</p>
+<p>(十六进制) | （二进制）<br>—————————————————————–<br>0000 0000-0000 007F | 0xxxxxxx</p>
+<p>0000 0080-0000 07FF | 110xxxxx 10xxxxxx</p>
+<p>0000 0800-0000 FFFF | 1110xxxx 10xxxxxx 10xxxxxx</p>
+<p>0001 0000-0010 FFFF | 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx</p>
+<p>最后简单总结一下：</p>
+<p>中国人民通过对 ASCII 编码的中文扩充改造，产生了 GB2312 编码，可以表示6000多个常用汉字。</p>
+<p>汉字实在是太多了，包括繁体和各种字符，于是产生了 GBK 编码，它包括了 GB2312 中的编码，同时扩充了很多。</p>
+<p>中国是个多民族国家，各个民族几乎都有自己独立的语言系统，为了表示那些字符，继续把 GBK 编码扩充为 GB18030 编码。</p>
+<p>每个国家都像中国一样，把自己的语言编码，于是出现了各种各样的编码，如果你不安装相应的编码，就无法解释相应编码想表达的内容。</p>
+<p>终于，有个叫 ISO 的组织看不下去了。他们一起创造了一种编码 UNICODE ，这种编码非常大，大到可以容纳世界上任何一个文字和标志。所以只要电脑上有 UNICODE 这种编码系统，无论是全球哪种文字，只需要保存文件的时候，保存成 UNICODE 编码就可以被其他电脑正常解释。</p>
+<p>UNICODE 在网络传输中，出现了两个标准 UTF-8 和 UTF-16，分别每次传输 8个位和 16个位。于是就会有人产生疑问，UTF-8 既然能保存那么多文字、符号，为什么国内还有这么多使用 GBK 等编码的人？因为 UTF-8 等编码体积比较大，占电脑空间比较多，如果面向的使用人群绝大部分都是中国人，用 GBK 等编码也可以。</p>
+]]></content>
+      <categories>
+        <category>折腾杂谈</category>
+      </categories>
+      <tags>
+        <tag>编码格式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Javascript高级程序设计学习笔记--基本概念</title>
+    <url>/61.html</url>
+    <content><![CDATA[<h2 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h2><blockquote>
+<p>非严格模式下没有var声明的变量会提升为全局变量，严格模式下会报错</p>
+</blockquote>
+<h3 id="5种基本数据类型"><a href="#5种基本数据类型" class="headerlink" title="5种基本数据类型"></a>5种基本数据类型</h3><ul>
+<li>  Number </li>
+<li>  Undefined </li>
+<li>  Null </li>
+<li>  Boolean </li>
+<li>  String </li>
+</ul>
+<h2 id="typeof操作符"><a href="#typeof操作符" class="headerlink" title="typeof操作符"></a>typeof操作符</h2><p><strong>作用：检测给定变量的数据类型</strong></p>
+<ul>
+<li>  “string” —如果这个值是一个字符串 </li>
+<li>  “undefined”—如果这个值未定义 </li>
+<li>  “boolean” —如果这个值是一个布尔值 </li>
+<li>  “number” —如果这个值是一个数值 </li>
+<li>  “object” —如果这个值是一个对象或null </li>
+<li>  “function” —如果这个值是一个函数</li>
+</ul>
+<h2 id="布尔类型"><a href="#布尔类型" class="headerlink" title="布尔类型"></a>布尔类型</h2><table>
+<thead>
+<tr>
+<th>数据类型</th>
+<th>转换为true的值</th>
+<th>转转换为false的值</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Boolean</td>
+<td>true</td>
+<td>false</td>
+</tr>
+<tr>
+<td>String</td>
+<td>任何非空字符串</td>
+<td>“”空字符串</td>
+</tr>
+<tr>
+<td>Number</td>
+<td>任何非0数字(包括无穷大)</td>
+<td>0和NaN</td>
+</tr>
+<tr>
+<td>Object</td>
+<td>任何对象</td>
+<td>null</td>
+</tr>
+<tr>
+<td>Undefined</td>
+<td></td>
+<td>undefined</td>
+</tr>
+</tbody></table>
+<h3 id="例子1"><a href="#例子1" class="headerlink" title="例子1"></a>例子1</h3><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">var message &#x3D;&quot;hello world&quot;;<br>if(message)&#123;<br>    alert(&quot;Value is true&quot;)<br>&#125;<br></code></pre></td></tr></table></figure>
+
+<p>这个实例中message是一个字符串它被自动转换成了布尔类型，使用Boolean()方法</p>
+<h2 id="数值转换"><a href="#数值转换" class="headerlink" title="数值转换"></a>数值转换</h2><p>Number()、parseInt()、parseFloat()三个方法，第一个不推荐使用，因为它比较复杂，不够合理</p>
+<h2 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h2><p>toString()可以将任意类型转换为字符串，使用同c#、java等语言的toString,如果不能确定变量是否为null或undefined可使用String()方法，String()遵循下列规则</p>
+<ol>
+<li> 如果值有toString()函数则调用该方法</li>
+<li> 如果值是null，则返回”null”</li>
+<li> 如果值是undefined，则返回”undefined”</li>
+</ol>
+<p>未完待续……</p>
+]]></content>
+      <categories>
+        <category>戎码一生</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>SqlServer修改主机名</title>
+    <url>/87.html</url>
+    <content><![CDATA[<blockquote>
+<p>安装SqlServer数据库后又修改了电脑名，导致计算机名跟数据库内的不一致，容易引起一系列的问题，使用下面的代码可以解决问题</p>
+</blockquote>
+<p><code>执行完成之后记得重启数据库服务</code></p>
+<figure class="highlight sql"><table><tr><td class="code"><pre><code class="hljs sql"><span class="hljs-keyword">DECLARE</span> <span class="hljs-variable">@InternalInstanceName</span> sysname;<br><span class="hljs-keyword">DECLARE</span> <span class="hljs-variable">@MachineInstanceName</span> sysname;<br><br><span class="hljs-keyword">SELECT</span> <span class="hljs-variable">@InternalInstanceName</span> <span class="hljs-operator">=</span> @<span class="hljs-variable">@SERVERNAME</span>, <span class="hljs-variable">@MachineInstanceName</span> <span class="hljs-operator">=</span> <span class="hljs-built_in">CAST</span>(SERVERPROPERTY(<span class="hljs-string">&#x27;MACHINENAME&#x27;</span>) <span class="hljs-keyword">AS</span> <span class="hljs-type">VARCHAR</span>(<span class="hljs-number">128</span>)) <span class="hljs-operator">+</span> <span class="hljs-built_in">COALESCE</span>(<span class="hljs-string">&#x27;\&#x27;</span> <span class="hljs-operator">+</span> <span class="hljs-built_in">CAST</span>(SERVERPROPERTY(<span class="hljs-string">&#x27;INSTANCENAME&#x27;</span>) <span class="hljs-keyword">AS</span> <span class="hljs-type">VARCHAR</span>(<span class="hljs-number">128</span>)), <span class="hljs-string">&#x27;&#x27;</span>);<br><br>IF <span class="hljs-variable">@InternalInstanceName</span> <span class="hljs-operator">&lt;&gt;</span> <span class="hljs-variable">@MachineInstanceName</span><br><span class="hljs-keyword">BEGIN</span> <span class="hljs-comment">-- Rename the instance</span><br><span class="hljs-keyword">EXEC</span> sp_dropserver <span class="hljs-variable">@InternalInstanceName</span>;<br><span class="hljs-keyword">EXEC</span> sp_addserver <span class="hljs-variable">@MachineInstanceName</span> ,<span class="hljs-string">&#x27;LOCAL&#x27;</span><br><span class="hljs-keyword">END</span><br></code></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>戎码一生</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Typecho主题-Sukka</title>
+    <url>/36.html</url>
+    <content><![CDATA[<blockquote>
+<p>主题设计来源于<a class="link"   href="https://skk.moe/" >https://skk.moe/<i class="fas fa-external-link-alt"></i></a></p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/MrSeaning/blogImg/blog/sukka.png"
+                     
+                > </p>
+<p>typecho用起来还是很舒服的，但是主题开发文档实在是能让人“口吐芬芳”，所以基本放弃了，主题没有后台，没有适配评论，所以不适合小白，等整理完之后放出github地址，估计后期有空了会继续写主题吧</p>
+]]></content>
+      <categories>
+        <category>折腾杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>一夜之间</title>
+    <url>/82.html</url>
+    <content><![CDATA[ <iframe src="//player.bilibili.com/player.html?aid=455141925&bvid=BV19541147jh&cid=176978032&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"> </iframe>]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>使用Github的Action自动部署Hexo</title>
+    <url>/90.html</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>具体的教程百度一下有很多，个人主要使用action同时发布到github的pages 跟 阿里云的ftp上，因此将网络搜到的整合了一下,仅做备忘</p>
+<blockquote>
+<p>目前效率还有点低，需要编译两遍，凑合能用，有空再去修改</p>
+</blockquote>
+<h2 id="yml文件代码"><a href="#yml文件代码" class="headerlink" title="yml文件代码"></a>yml文件代码</h2><figure class="highlight yaml"><table><tr><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">name:</span> <span class="hljs-string">Deploy</span> <span class="hljs-string">Hexo</span><br><span class="hljs-attr">on:</span><br>  <span class="hljs-attr">push:</span><br>    <span class="hljs-attr">branches:</span><br>      <span class="hljs-bullet">-</span> <span class="hljs-string">main</span> <span class="hljs-comment"># main 分支有 push 行为时就触发这个 action</span><br><br><span class="hljs-attr">jobs:</span><br>  <span class="hljs-attr">build-and-deploy:</span><br>    <span class="hljs-attr">name:</span> <span class="hljs-string">Deploy</span> <span class="hljs-string">To</span> <span class="hljs-string">Github</span> <span class="hljs-string">Pages</span><br>    <span class="hljs-attr">runs-on:</span> <span class="hljs-string">ubuntu-latest</span><br>    <span class="hljs-attr">steps:</span><br>      <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Checkout</span><br>        <span class="hljs-attr">uses:</span> <span class="hljs-string">actions/checkout@master</span><br><br>      <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Build</span> <span class="hljs-string">and</span> <span class="hljs-string">Deploy</span><br>        <span class="hljs-attr">uses:</span> <span class="hljs-string">MrSeaning/hexo-deploy-github-pages-action@master</span> <span class="hljs-comment"># 使用专门部署 Hexo 到 GitHub pages 的 action</span><br>        <span class="hljs-attr">env:</span><br>          <span class="hljs-attr">PERSONAL_TOKEN:</span> <span class="hljs-string">$&#123;&#123;</span> <span class="hljs-string">secrets.HEXO_DEPLOY</span> <span class="hljs-string">&#125;&#125;</span> <span class="hljs-comment"># secret 名</span><br>          <span class="hljs-attr">PUBLISH_REPOSITORY:</span> <span class="hljs-string">...</span> <span class="hljs-comment"># 公共仓库，格式：GitHub 用户名/仓库名</span><br>          <span class="hljs-attr">BRANCH:</span> <span class="hljs-string">gh-pages</span> <span class="hljs-comment"># 分支，填 gh-pages 就行</span><br>          <span class="hljs-attr">PUBLISH_DIR:</span> <span class="hljs-string">./public</span> <span class="hljs-comment"># 部署 public 目录下的文件</span><br>          <br>  <span class="hljs-attr">web-deploy:</span><br>    <span class="hljs-attr">name:</span> <span class="hljs-string">Deploy</span> <span class="hljs-string">To</span> <span class="hljs-string">AliYun</span> <span class="hljs-string">FTP</span><br>    <span class="hljs-attr">runs-on:</span> <span class="hljs-string">ubuntu-latest</span><br>    <span class="hljs-attr">steps:</span><br>    <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Get</span> <span class="hljs-string">latest</span> <span class="hljs-string">code</span><br>      <span class="hljs-attr">uses:</span> <span class="hljs-string">actions/checkout@v2.3.2</span><br><br>    <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Use</span> <span class="hljs-string">Node.js</span> <span class="hljs-number">12</span><br>      <span class="hljs-attr">uses:</span> <span class="hljs-string">actions/setup-node@v2-beta</span><br>      <span class="hljs-attr">with:</span><br>        <span class="hljs-attr">node-version:</span> <span class="hljs-string">&#x27;12&#x27;</span><br>       <br>    <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Build</span> <span class="hljs-string">Project</span><br>      <span class="hljs-attr">run:</span> <span class="hljs-string">|</span><br>        <span class="hljs-string">npm</span> <span class="hljs-string">install</span> <span class="hljs-string">hexo-cli</span> <span class="hljs-string">-g</span><br>        <span class="hljs-string">npm</span> <span class="hljs-string">install</span><br>        <span class="hljs-string">hexo</span> <span class="hljs-string">clean</span><br>        <span class="hljs-string">hexo</span> <span class="hljs-string">generate</span><br>              <br>    <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">📂</span> <span class="hljs-string">Sync</span> <span class="hljs-string">files</span><br>      <span class="hljs-attr">uses:</span> <span class="hljs-string">SamKirkland/FTP-Deploy-Action@4.0.0</span><br>      <span class="hljs-attr">with:</span><br>        <span class="hljs-attr">server:</span> <span class="hljs-string">$&#123;&#123;</span> <span class="hljs-string">secrets.FTP_SERVER</span> <span class="hljs-string">&#125;&#125;</span><br>        <span class="hljs-attr">username:</span> <span class="hljs-string">$&#123;&#123;</span> <span class="hljs-string">secrets.FTP_USERNAME</span> <span class="hljs-string">&#125;&#125;</span><br>        <span class="hljs-attr">password:</span> <span class="hljs-string">$&#123;&#123;</span> <span class="hljs-string">secrets.FTP_PASSWORD</span> <span class="hljs-string">&#125;&#125;</span><br>        <span class="hljs-attr">local-dir:</span> <span class="hljs-string">./public/</span><br>        <span class="hljs-attr">server-dir:</span> <span class="hljs-string">./htdocs/</span><br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>折腾杂谈</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>免费代理IP爬取</title>
+    <url>/73.html</url>
+    <content><![CDATA[<blockquote>
+<p>学习python爬虫时候的一个小案例，希望能帮助到大家</p>
+</blockquote>
+<span id="more"></span>
+
+<figure class="highlight python"><table><tr><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> requests<br><span class="hljs-keyword">import</span> time<br><span class="hljs-keyword">from</span> bs4 <span class="hljs-keyword">import</span> BeautifulSoup<br><br><span class="hljs-comment"># 代理IP的信息存储</span><br><br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">write_proxy</span>(<span class="hljs-params">proxies</span>):</span><br>    <span class="hljs-built_in">print</span>(proxies)<br>    <span class="hljs-keyword">for</span> proxy <span class="hljs-keyword">in</span> proxies:<br>        <span class="hljs-keyword">with</span> <span class="hljs-built_in">open</span>(<span class="hljs-string">&quot;ip_proxy.txt&quot;</span>, <span class="hljs-string">&#x27;a+&#x27;</span>) <span class="hljs-keyword">as</span> f:<br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;正在写入：&quot;</span>, proxy)<br>            f.write(proxy + <span class="hljs-string">&#x27;\n&#x27;</span>)<br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;录入完成！！！&quot;</span>)<br><br><br><span class="hljs-comment"># 解析网页，并得到网页中的代理IP</span><br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">get_proxy</span>(<span class="hljs-params">html</span>):</span><br>    <span class="hljs-comment"># 对获取的页面进行解析</span><br>    proxies = []<br>    bs = BeautifulSoup(html, <span class="hljs-string">&quot;html.parser&quot;</span>)<br>    trs = bs.select(<span class="hljs-string">&quot;tbody&gt;tr&quot;</span>)<br>    <span class="hljs-comment"># 信息提取</span><br>    <span class="hljs-keyword">for</span> tr <span class="hljs-keyword">in</span> trs:<br>        <span class="hljs-comment"># 获取IP地址</span><br>        ip = tr.td.get_text()<br>        <span class="hljs-comment"># 获取端口</span><br>        port = tr.td.next_sibling.get_text()<br>        <span class="hljs-comment"># 拼接IP地址，端口号</span><br>        proxy = <span class="hljs-string">&quot;http://&quot;</span>+ip + <span class="hljs-string">&quot;:&quot;</span> + port<br>        <span class="hljs-comment"># 拼接的IP地址放入到定义的空列表中</span><br>        proxies.append(proxy)<br>        <span class="hljs-comment"># 计算每个页面一共有几个IP地址</span><br>    test_proxies(proxies)<br><br><br><span class="hljs-comment"># 验证已得到IP的可用性，本段代码通过访问百度网址，返回的response状态码判断（是否可用）。</span><br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">test_proxies</span>(<span class="hljs-params">proxies</span>):</span><br>    proxies = proxies<br>    url = <span class="hljs-string">&quot;http://www.baidu.com/&quot;</span><br>    header = &#123;<br>        <span class="hljs-string">&quot;User-Agent&quot;</span>: <span class="hljs-string">&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74&quot;</span>,<br>    &#125;<br>    normal_proxies = []<br>    count = <span class="hljs-number">1</span><br>    <span class="hljs-keyword">for</span> proxy <span class="hljs-keyword">in</span> proxies:<br>        <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;第%s个。。&quot;</span> % count)<br>        count += <span class="hljs-number">1</span><br>        <span class="hljs-keyword">try</span>:<br>            response = requests.get(url, headers=header, proxies=&#123;<br>                <span class="hljs-string">&quot;http&quot;</span>: proxy&#125;, timeout=<span class="hljs-number">1</span>)<br>            <span class="hljs-keyword">if</span> response.status_code == <span class="hljs-number">200</span>:<br>                <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;该代理IP可用：&quot;</span>, proxy)<br>                normal_proxies.append(proxy)<br>            <span class="hljs-keyword">else</span>:<br>                <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;该代理IP不可用：&quot;</span>, proxy)<br>        <span class="hljs-keyword">except</span> Exception:<br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;该代理IP无效：&quot;</span>, proxy)<br>            <span class="hljs-keyword">pass</span><br>    <span class="hljs-comment"># print(normal_proxies)</span><br>    write_proxy(normal_proxies)<br><br><br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">get_html</span>(<span class="hljs-params">url</span>):</span><br>    header = &#123;<br>        <span class="hljs-string">&quot;User-Agent&quot;</span>: <span class="hljs-string">&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74&quot;</span>,<br>    &#125;<br>    response = requests.get(url, headers=header)<br>    response.encoding = response.apparent_encoding<br>    get_proxy(response.text)<br><br><br><span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">&quot;__main__&quot;</span>:<br>    <span class="hljs-comment"># 循环获取网址</span><br>    base_url = <span class="hljs-string">&quot;https://ip.jiangxianli.com/?page=%s&amp;country=中国&quot;</span><br>    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">1</span>, <span class="hljs-number">3</span>):<br>        url = base_url % i<br>        get_html(url)<br>        time.sleep(<span class="hljs-number">10</span>)  <span class="hljs-comment"># 休眠10秒爬取第二页</span><br></code></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>戎码一生</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>好用的截图&amp;贴图软件--Snipaste</title>
+    <url>/89.html</url>
+    <content><![CDATA[<p>Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上！下载并打开 Snipaste，按下 F1 来开始截图，再按 F3，截图就在桌面置顶显示了。就这么简单！ 你还可以将剪贴板里的文字或者颜色信息转化为图片窗口，并且将它们进行缩放、旋转、翻转、设为半透明，甚至让鼠标能穿透它们！如果你是程序员、设计师，或者是大部分工作时间都在电脑前，贴图功能将改变你的工作方式、提升工作效率。 Snipaste 使用很简单，但同时也有一些较高级的用法可以进一步提升你的工作效率。感兴趣的话，请抽空读一读<a class="link"   href="https://docs.snipaste.com/#/zh-cn/" >用户手册<i class="fas fa-external-link-alt"></i></a>。 Snipaste 是免费软件，它也很安全，没有广告、不会扫描你的硬盘、更不会上传用户数据，它只做它应该做的事。</p>
+<h2 id="官方网站"><a href="#官方网站" class="headerlink" title="官方网站"></a>官方网站</h2><p><a class="link"   href="https://zh.snipaste.com/" >https://zh.snipaste.com<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+      <categories>
+        <category>软件资源</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>悟了?没悟?</title>
+    <url>/93.html</url>
+    <content><![CDATA[<blockquote>
+<p>随便写的不要当真，当真你就输了</p>
+</blockquote>
+<p>年龄的尴尬，我们现在面临上有老，下有小的尴尬境地，还可以像年轻的时候一样放开手脚，肆意妄为，以满足个人的精神世界与价值创造为先么？</p>
+<p>都是疑问的，都是让人犹豫与徘徊的因素</p>
+<p>人活在世上到底是为了什么？对于这个问题，10年前我觉得我很清楚，那时候自己简单、单纯、没那没多想法很快乐</p>
+<p>现在的自己，想法多了，反而束缚了手脚，房子、票子、车子、孩子、晋升等，以前的自己引领生活，现在的自己被生活推着走，被生活所迫，没了棱角，也看开了一些东西</p>
+<p>男人40不惑，我TMD还没到40，因此还得迷惑个几年，问题有点多</p>
+<p>路口，我现在就站在了一个路口</p>
+<p><strong>人活一世，还是自由点好</strong></p>
+]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>技术人员的职场之道</title>
+    <url>/68.html</url>
+    <content><![CDATA[<blockquote>
+<p>在职场，很多专业人员混得不如意，其实都是吃了不懂政治的亏！</p>
+</blockquote>
+<p>公司流失了很多人才，很多专心搞研究的人，总觉得出处受到限制，无法发挥自己的，究其根本原因就是他们不懂“政治”</p>
+<h2 id="懂专业不懂人性"><a href="#懂专业不懂人性" class="headerlink" title="懂专业不懂人性"></a>懂专业不懂人性</h2><p>精通技术，这本身就是一个研究物的工作，不需要和人打交道，但是人才想增加自己的收入就必须提升自己的级别，搞管理工作，而管理工作就是一个研究人的工作。这并不是专业人才的特长。因为不懂人性，往往自己处理问题从专业技术出发，忽视了大家的心理，无法协调处理关系，从而被排挤。</p>
+<h2 id="懂专业不懂斗争"><a href="#懂专业不懂斗争" class="headerlink" title="懂专业不懂斗争"></a>懂专业不懂斗争</h2><p>懂专业的人不是你一个，而且这背后还牵扯到巨大的利益，所以这背后其实就是围绕技术而展开的斗争，而往往懂技术的人，心思都比较简单，对人性的阴暗并不了解。以为大家拼的就是真理，其实不是那么回事，不懂斗争，不会斗争，最终都会政治上败下阵来。</p>
+<h2 id="懂专业不懂宣传"><a href="#懂专业不懂宣传" class="headerlink" title="懂专业不懂宣传"></a>懂专业不懂宣传</h2><p>研究专业技术的人，大多不善言辞，不善于宣传，不知道如何的去选出你自己，很多时候，几句无心的话，就会被人抓住把柄，无限的上纲上线，再或者是被捧杀，不断的树立典型，到处作报告，塑造成一个政治完人，最终封神，人被放大之后，被人看到缺点，从而物极必反，被推翻。 如果特别靠专业能力的地方，才能有饭吃，换一个不明显的地方，就抑郁不得志了。所以，一个人不单单要懂专业， 更懂政治，这样的人，才能名利双收。</p>
+]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>搞教育，就像包饺子</title>
+    <url>/66.html</url>
+    <content><![CDATA[<p>家长们把自己的饺子包好，有的皮薄，有的皮厚，有的干爽，有的黏糊。这些饺子都要拿到名叫学校的这口锅里一起去煮。 这时候就尴尬了，有的饺子一下锅就烂，有的饺子煮半天不熟，有的饺子不仅自己烂，还要粘住别的饺子。 老师这会儿可就尴尬了，完好无损的不让任何一个饺子烂基本是不可能的，所以只能保持大多数饺子不烂，保证烂了的饺子凑合能吃。 烂了的饺子，用漏勺隔着不让分散；粘在一起的饺子，就强行用筷子分开，于是搞得一些本来就烂的饺子更烂。好的饺子放在一起。 等饺子熟了的时候，坏的放在一起，好的放在一起。 这时候餐桌上的家长表情各异，有的嫌自己的饺子破了大闹学校，有的则是窃喜不已。 老师说，各位家长，饺子烂不烂不仅仅是煮的问题，跟包的问题也有很大关系，希望饺子包的不合理的家长，回去可以练习下学习下，下次饺子包的好了，就不会烂了。 于是老师被骂不负责，煮的不用心，不够努力，没有职业精神，而自己没时间，没技术，没办法。 但是奈何学校是个煮大锅饭的，不是搞定制煮饺的，不可能一个饺子一个饺子去煮，这样的成本和效率决定了这么做是不可能的。 所以只能是，烂的饺子继续烂，好的饺子继续好。 等过了几年后，家长们要升级学校了，于是更蛋疼的来了。 好的学校，要看家长包饺子的水准，所以包饺子不认真的家长，都去不了好学校。而好学校顾名思义就是好学校，也就是煮出来的饺子都很完整，家长技术好，老师技术也好。 那些技术不好的家长，只能去找其他学校，于是，饺子接着烂。 这时候家长都忍不住了：</p>
+<ol>
+<li> 用漏勺隔出来烂的饺子，是在搞饺子分级化，为什么家长交的同样的钱，老师却不能一视同仁？</li>
+<li> 煮饺子的人应该从自己身上找问题，为什么好学校就能煮都不破的饺子，而你不能？</li>
+</ol>
+<p>老师回答：</p>
+<ol>
+<li> 我如果一视同仁按好饺子的煮法煮，你的饺子就成了饺子汤了，因为好饺子我管的反而少。</li>
+<li> 好学校煮的都是好皮儿饺子，我煮的饺子什么皮儿都有。</li>
+</ol>
+<blockquote>
+<p>家长： 反正你用漏勺隔离就不对，反正你用筷子强行分开黏在一起的饺子就不对！</p>
+</blockquote>
+<p>这种问题属于杠精舒适圈，一套非黑即白加圣母视角就能常胜不输。 一说体罚就是违法，就是老师能力不足，就是伤害学生心理。在这种人眼里，老师应该是万能的。 但这种论调，往往有个漏洞，就是这么说的人，自己也没有什么办法去搞定这些问题学生，反正不允许你体罚，至于其他办法有没有用我就不管了，你要体罚你就是有问题，颇有种无赖的感觉。 孩子的成长，是靠家庭和学校的共同努力，老师并不是万能的，不要什么问题都让老师想办法，说到底，孩子是他亲生家长的孩子。 从小到大，从纯靠天性本能行事的小野兽，从幼儿园开始接受公共的秩序教育。他们会学习到什么是对的，什么是错的，什么是普通的，什么是优秀的。这是他们从野兽到人的进化过程。 所以有成人这一说，有未成年保护法这一说。成人了，就说明整个变人培训已经完毕，你的所有操作都可以按真正意义上的人的法律所约束。反之未成年，还为成为人，所以需要保护。 法律条例是固定界限的，成年的年龄也是固定界限的，但是教育却存在很大的变量，小兽的性格也存在很大变量，没有量化标准。比如有的是城市教育，有的是农村教育，有的天生温顺，有的天生暴躁。 以上的变量，也就导致了，有的人在过了成年年龄，还没完全进化成人，更别说，九年义务教育内这个年纪，是处在大概率都没有进化完毕的年龄。 他们叛逆，他们听不进去道理，他们向往刺激，他们向往被关注，他们向往很多，获得这种感觉的方法也有很多，有的通过学习来证明，有的通过捣乱来证明，有的需要在游戏里证明自己有所长，有的需要通过欺负别人来获得存在感和自信。 他们的生存规则，和成年人的规则完全是不一样的。 所以好的学校就挑生源，把靠学习的，听得进去话的，性格温顺的，不捣乱的生源聚在一起，所以学校更好，这种学校可以讲民主，讲素质教育，因为他们不太担心，有捣乱的学生存在，即使有，也是极少数，处理起来很简单：退学。 但是坏的学校一般管的更严格，因为这里的学生大多性格跳脱，什么样的都有，所以必须采取一些手段才能压制住。 那么好的学校不必多说，坏的学校怎么办？还能怎么办？ 看《放牛班的春天》很感动，感动于老师的理想主义，感动于老师的身体力行，但自问，我们感动的是老师的无私奉献，我们感动的是老师被占便宜毫不计较：人家凭什么对你无私奉献？奉献是美德，而不是责任和义务。 回到现实：拥有《放牛》中主角老师这样的素质的老师，肯定不会选择差的教育环境，大把的好学校等着人家。即便这样具备这样素质的老师，恰好到了差生很多的学校，他又能否把这班孩子改变过来？毕竟电影是电影，结局是写好的。 学校这个地方，是个批量加工的地方，而不是个性定制的地方。 尴尬在于，这个批量加工的对象，确实客户的唯一，都是各种个性存在，所以客户以个性定制为要求。 这个要求是不合理的，因为个性定制的价格很高。</p>
+]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>新的开始</title>
+    <url>/69.html</url>
+    <content><![CDATA[<p>放弃之前所有的内容，使用hexo重新开始，回归写作的本质，拒绝折腾 </p>
+<span id="more"></span>
+<blockquote>
+<p>嘴上说着不要折腾，其实身体却很诚实，希望能坚持下去吧</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>查询数据库中所有的表名及行数</title>
+    <url>/60.html</url>
+    <content><![CDATA[<figure class="highlight sql"><table><tr><td class="code"><pre><code class="hljs sql"><span class="hljs-operator">-</span>查询数据库中所有的表名及行数<br><span class="hljs-keyword">SELECT</span>  a.name ,  b.rows  <span class="hljs-keyword">FROM</span>    sysobjects <span class="hljs-keyword">AS</span> a<br><span class="hljs-keyword">INNER</span> <span class="hljs-keyword">JOIN</span> sysindexes <span class="hljs-keyword">AS</span> b <span class="hljs-keyword">ON</span> a.id <span class="hljs-operator">=</span> b.id<br><span class="hljs-keyword">WHERE</span>   ( a.type <span class="hljs-operator">=</span> <span class="hljs-string">&#x27;u&#x27;</span> )  <span class="hljs-keyword">AND</span> ( b.indid <span class="hljs-keyword">IN</span> ( <span class="hljs-number">0</span>, <span class="hljs-number">1</span> ) )<br><span class="hljs-keyword">ORDER</span> <span class="hljs-keyword">BY</span> b.rows <span class="hljs-keyword">DESC</span><br></code></pre></td></tr></table></figure>
+
+<p> </p>
+<figure class="highlight sql"><table><tr><td class="code"><pre><code class="hljs sql"><span class="hljs-comment">--查询所有的表名及空间占用量情况</span><br><span class="hljs-keyword">SELECT</span>  OBJECT_NAME(id) tablename ,<br>        <span class="hljs-number">8</span> <span class="hljs-operator">*</span> reserved <span class="hljs-operator">/</span> <span class="hljs-number">1024</span> reserved ,<br>        RTRIM(<span class="hljs-number">8</span> <span class="hljs-operator">*</span> dpages) <span class="hljs-keyword">AS</span> <span class="hljs-string">&#x27;used(kb)&#x27;</span> ,<br>        <span class="hljs-number">8</span> <span class="hljs-operator">*</span> ( reserved <span class="hljs-operator">-</span> dpages ) <span class="hljs-operator">/</span> <span class="hljs-number">1024</span> unused ,<br>        <span class="hljs-number">8</span> <span class="hljs-operator">*</span> dpages <span class="hljs-operator">/</span> <span class="hljs-number">1024</span> <span class="hljs-operator">-</span> <span class="hljs-keyword">rows</span> <span class="hljs-operator">/</span> <span class="hljs-number">1024</span> <span class="hljs-operator">*</span> minlen <span class="hljs-operator">/</span> <span class="hljs-number">1024</span> <span class="hljs-keyword">free</span><br><span class="hljs-keyword">FROM</span>    sysindexes<br><span class="hljs-keyword">WHERE</span>   indid <span class="hljs-operator">=</span> <span class="hljs-number">1</span><br><span class="hljs-keyword">ORDER</span> <span class="hljs-keyword">BY</span> reserved <span class="hljs-keyword">DESC</span> <br></code></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>戎码一生</category>
+      </categories>
+      <tags>
+        <tag>sql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>物品预购清单</title>
+    <url>/65.html</url>
+    <content><![CDATA[<blockquote>
+<p>记录下自己的欲望清单，看啥时候能清空，随时也会增加“欲望”</p>
+</blockquote>
+<ul>
+<li>  <del>小米（苹果）平板(已购)</del></li>
+<li>  <del>NAS服务器</del></li>
+<li>  <del>苹果(华为)手机(已购)</del></li>
+<li>  ipad键盘壳</li>
+<li>  <del>百度网盘会员(已购)</del></li>
+<li>  无线AP</li>
+<li>  蓝牙音响</li>
+<li>  行李箱</li>
+<li>  热水壶</li>
+<li>  微单相机</li>
+<li>  <del>指甲刀修剪器一套（已购）</del></li>
+<li>  <del>128G高速优盘(已购)</del></li>
+<li>  新台式机</li>
+<li>  显示器</li>
+<li>  <del>电脑椅(已购)</del></li>
+</ul>
+]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+  </entry>
+</search>
